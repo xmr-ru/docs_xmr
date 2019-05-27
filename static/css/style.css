@@ -1,0 +1,7 @@
+div #body-inner{
+    color: rgb(76, 76, 76) !important;
+    font-size: 18px !important;
+    letter-spacing: .33px;
+     font-weight: 400;
+    text-rendering: optimizeLegibility;
+}

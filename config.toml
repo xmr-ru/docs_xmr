@@ -1,3 +1,31 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://docs.xmr.ru/"
+languageCode = "ru-ru"
+title = "Документация по Monero"
+theme = "hugo-theme-learn"
+#themesdir = "../.."
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+defaultContentLanguage = "ru"
+
+[params]
+  #editURL = "https://github.com/monerorus"
+  description = "Documentation for Hugo Learn Theme"
+  author = "Mathieu Cornic"
+  showVisitedLinks = false
+  disableBreadcrumb = true
+  disableNextPrev = false
+  disableAssetsBusting = false
+  
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.ru]
+title = "Документация по Monero"
+weight = 1
+languageName = "Russian"
+
+[[Languages.ru.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Сведения об авторах"
+url = "/credits"
+weight = 30
