@@ -15,6 +15,7 @@ defaultContentLanguage = "ru"
   disableBreadcrumb = true
   disableNextPrev = false
   disableAssetsBusting = false
+  themeVariant = "monero"
   
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
