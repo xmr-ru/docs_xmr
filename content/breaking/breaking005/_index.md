@@ -5,7 +5,7 @@ weight: 05
 
 # [Breaking Monero Episode 05: Input Selection Algorithm](https://youtu.be/Sn44ahKxC1E)
 
-В этом эпизоде Саранг и Джастин более подробно рассказывают о том, как происходит выбор ложных выходов для кольцевых подписей Monero, что это происходит далеко не «случайным образом». Рассказывается, как со временем эволюционировал алгоритм выбора Monero, и как важен алгоритм выбора для создания безопасных кольцевых подписей. «Эмпирический анализ отслеживаемости в блокчейне Monero», Мальти Мёзер (Malte Möser), Кайл Соска (Kyle Soska), Этан Хейлмен (Ethan Heilman), Кевин Ли (Kevin Lee), Генри Хеффан (Henry Heffan), Шашват Шривастава (Shashvat Srivastava), Кайл Хоган (Kyle Hogan), Дже	йсон Хеннеси (Jason Hennessey), Эндрю Миллер (Andrew Miller), Эрвинд Нарайанан (Arvind Narayanan), Николас Кристин (Nicolas Christin).
+В этом эпизоде Саранг и Джастин более подробно рассказывают о том, как происходит выбор ложных выходов для кольцевых подписей Monero, что это происходит далеко не «случайным образом». Рассказывается, как со временем эволюционировал алгоритм выбора Monero и как важен алгоритм выбора для создания безопасных кольцевых подписей. «Эмпирический анализ отслеживаемости в блокчейне Monero», Мальти Мёзер (Malte Möser), Кайл Соска (Kyle Soska), Этан Хейлмен (Ethan Heilman), Кевин Ли (Kevin Lee), Генри Хеффан (Henry Heffan), Шашват Шривастава (Shashvat Srivastava), Кайл Хоган (Kyle Hogan), Джейсон Хеннеси (Jason Hennessey), Эндрю Миллер (Andrew Miller), Эрвинд Нарайанан (Arvind Narayanan), Николас Кристин (Nicolas Christin).
 
 Опубликовано CC-BY [RyoRU](https://medium.com/@RyoRU/breaking-monero-series-episode-05-input-selection-algorithm-7fa7c363426c)
 
@@ -33,6 +33,6 @@ weight: 05
 
 *Джастин:	[00:13:51]* Хорошо. Спасибо тебе, Саранг. Спасибо всем, кто смотрел этот эпизод «Breaking Monero». Увидимся в следующей передаче.
 
-*Перевод: [Mr. Pickles](https://t.me/v1docq47)*
-*Редактирование: Agent LvM (https://t.me/LvMi4)*
+*Перевод: [Mr. Pickles](https://t.me/v1docq47)*  
+*Редактирование: Agent LvM (https://t.me/LvMi4)*  
 *Коррекция: Kukima (https://t.me/Kukima)*
