@@ -7,8 +7,6 @@ weight: 12
 
 *09/05/19*
 
-[Breaking Monero Эпизод 12 - Метаданные входов/выходов](https://youtu.be/-zJpvsj1rWE)
-
 В этом эпизоде нами обсуждается, как метаданные, собранные при наблюдении за количеством входов и выходов, могут при некоторых обстоятельствах снизить уровень анонимности. Мы расскажем, как избежать утечки метаданных при нестандартном или обычном, прогнозируемом поведении.
 
 [github.com/noncesense-research-lab/tx_in_out_distribution](https://github.com/noncesense-research-lab/tx_in_out_distribution)
