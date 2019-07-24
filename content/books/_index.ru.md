@@ -1,5 +1,5 @@
 ﻿---
-title: "Книги о Monero"
+title: Книги о Monero
 weight: 01
 ---
 

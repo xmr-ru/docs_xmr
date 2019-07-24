@@ -1,6 +1,6 @@
 ﻿---
-title: "Monero Konferenco"
-weight: 01
+title: Monero Konferenco
+weight: 03
 ---
 
 Monero Konferenco - это ежегодная встреча поборников анонимности, шифропанков, учёных и философов.​

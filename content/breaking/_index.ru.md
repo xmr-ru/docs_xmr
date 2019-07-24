@@ -1,5 +1,5 @@
 ﻿---
-title: "Breaking Monero"
+title: Breaking Monero
 weight: 02
 ---
 

@@ -3,7 +3,7 @@ weight: 1
 title:
 ---
 
-# Участники Monero Russian Community, причастные к созданию данного ресурса
+## Участники Monero Russian Community, причастные к созданию данного ресурса
 
 [Mr. Pickles](https://t.me/v1docq47) | [chiptune@protonmail.ch](mailto:chiptune@protonmail.ch)  
 [MoneroRus](https://t.me/monerorus) | [monerorus@tuta.io](mailto:monerorus@tuta.io)
