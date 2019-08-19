@@ -1,11 +1,11 @@
 ﻿---
-title: "Breaking Monero"
+title: Breaking Monero
 weight: 02
 ---
 
 Breaking Monero - это эпизодические выпуски видеоподкаста в которых рассматривается ограничения механизмов обеспечения безопасности и анонимности Monero доступным и понятным образом.
 
-### Выпуски видеоподкаста Breaking Monero
+#### Выпуски видеоподкаста Breaking Monero
 
 * [Breaking Monero Episode 01: Введение](breaking001/)
 * [Breaking Monero Episode 02: Введение в цифровые подписи](breaking002/)
