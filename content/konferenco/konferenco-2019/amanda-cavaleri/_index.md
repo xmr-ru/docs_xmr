@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Аманды Кавалери
 weight: 01
 ---
 
-{{< youtube id="mg9In-WDnFc" autoplay="false" >}}
+{{< youtube id="SLpf-bYhJaM" autoplay="false" >}}
 
 *22/06/2019*
 

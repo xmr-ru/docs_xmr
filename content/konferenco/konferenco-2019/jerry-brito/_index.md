@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Джерри Брито
 weight: 01
 ---
 
-{{< youtube id="wmXDJpYF46E" autoplay="false" >}}
+{{< youtube id="hCgJmdjOLrI" autoplay="false" >}}
 
 *22/06/2019*
 

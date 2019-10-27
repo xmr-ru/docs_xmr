@@ -3,7 +3,7 @@ title: MoneroKon D2 - Выступление Needmoney90
 weight: 01
 ---
 
-{{< youtube id="CC6QnEOwV1s" autoplay="false" >}}
+{{< youtube id="Qx4OFpN76a0" autoplay="false" >}}
 
 *23/06/2019*
 
