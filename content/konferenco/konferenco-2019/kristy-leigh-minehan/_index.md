@@ -3,7 +3,7 @@ title: MoneroKon D2 - Выступление Кристи-Лей Минехан
 weight: 01
 ---
 
-{{< youtube id="jDSKIr5EPiU" autoplay="false" >}}
+{{< youtube id="56Tr03HzGJ8" autoplay="false" >}}
 
 *23/06/2019*
 
