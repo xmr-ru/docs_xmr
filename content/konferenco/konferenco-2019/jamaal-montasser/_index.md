@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Джамаала Монтассер
 weight: 01
 ---
 
-{{< youtube id="wtbg1BD8ppM" autoplay="false" >}}
+{{< youtube id="5gn5RnZiJZs" autoplay="false" >}}
 
 *22/06/2019*
 

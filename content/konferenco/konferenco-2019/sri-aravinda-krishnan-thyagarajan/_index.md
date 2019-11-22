@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Шри Аравинда Кришн�
 weight: 01
 ---
 
-{{< youtube id="tmxPHb8QNqE" autoplay="false" >}}
+{{< youtube id="-YAqOoXUnbw" autoplay="false" >}}
 
 *22/06/2019*
 
