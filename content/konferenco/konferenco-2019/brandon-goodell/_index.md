@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Брендона Гудела
 weight: 01
 ---
 
-{{< youtube id="xicn4rdUj_Q" autoplay="false" >}}
+{{< youtube id="mPucTDFgfpo" autoplay="false" >}}
 
 *22/06/2019*
 

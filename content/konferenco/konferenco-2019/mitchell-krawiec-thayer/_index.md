@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Д-ра Митчелла Крави
 weight: 01
 ---
 
-{{< youtube id="XIrqyxU3k5Q" autoplay="false" >}}
+{{< youtube id="cQJv8IXtV5M" autoplay="false" >}}
 
 *22/06/2019*
 

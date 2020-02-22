@@ -3,7 +3,7 @@ title: MoneroKon D2 - Выступление Джетро Грасси
 weight: 01
 ---
 
-{{< youtube id="-IE8rkSx__k" autoplay="false" >}}
+{{< youtube id="FNRgp3lY8nU" autoplay="false" >}}
 
 *23/06/2019*
 

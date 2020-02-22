@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Ли Кладжетта
 weight: 01
 ---
 
-{{< youtube id="bxQ0ic1Fccs" autoplay="false" >}}
+{{< youtube id="_xjbSCm6oP4" autoplay="false" >}}
 
 *22/06/2019*
 

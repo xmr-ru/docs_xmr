@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Джоша Роуза
 weight: 01
 ---
 
-{{< youtube id="4txc2VUwX9o" autoplay="false" >}}
+{{< youtube id="bmOQ08Pw4B4" autoplay="false" >}}
 
 *22/06/2019*
 
