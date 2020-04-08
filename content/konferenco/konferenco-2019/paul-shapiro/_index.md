@@ -3,7 +3,7 @@ title: MoneroKon D2 - Выступление Пола Шапиро
 weight: 01
 ---
 
-{{< youtube id="DY0iE0cBXbc" autoplay="false" >}}
+{{< youtube id="nYR3vaqJKUk" autoplay="false" >}}
 
 *23/06/2019*
 

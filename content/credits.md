@@ -11,3 +11,6 @@ title:
 Не забывайте посетить наш форум [xmr.ru](https://xmr.ru), где вас ждут не менее интересные материалы, новости, переводы и руководства о Monero.
 
 В дополнении, вы можете заглянуть на наш [YouTube канал](https://www.youtube.com/channel/UChZc5PLsbP5zeFrmOYMKGmA), где сможете найти еженедельные выпуски новостей, руководства и инструкции.
+
+Адрес для пожертвований и оказания финансовой поддержки проекту:
+`87BPRp8QJHYMB8rbpzAHDtfzk5HXGiz4zExjxXjHtNTNE4qcPGKGAWxPmAnE4Gjsia87YkgmskskNhQ8LrRcuY9aGdKonSX`

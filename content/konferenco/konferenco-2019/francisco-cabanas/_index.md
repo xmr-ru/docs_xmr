@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Франциско Кабаньяс
 weight: 01
 ---
 
-{{< youtube id="Hbm0ub3qWw4" autoplay="false" >}}
+{{< youtube id="1NgglsP3KqI" autoplay="false" >}}
 
 *22/06/2019*
 
