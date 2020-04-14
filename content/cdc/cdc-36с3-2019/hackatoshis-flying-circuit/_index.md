@@ -1,6 +1,6 @@
 ---
-title: Кластер критической децентрализации (36c3) - Hackatoshi's Flying Circuit
-weight: 01
+title: Hackatoshi's Flying Circuit
+weight: 47
 ---
 
 {{< youtube id="crjrXb30Tz0" autoplay="false" >}}
