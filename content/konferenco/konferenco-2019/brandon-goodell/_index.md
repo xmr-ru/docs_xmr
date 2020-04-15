@@ -1,5 +1,5 @@
 ---
-title: MoneroKon D1 - Выступление Брендона Гудела
+title: MoneroKon D1 - Выступление Брэндона Гуделла
 weight: 01
 ---
 
