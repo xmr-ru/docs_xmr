@@ -7,11 +7,11 @@ weight: 01
 
 #### Лекции и выступления Кластера критической децентрализации (СDC) на 36-ом Всемирном конгрессе хакеров (36c3):
 
-* [Monero Introduction (Diego "rehrar" Salazar)](monero-introduction/)
-* [RIAT Introduction (parasew)​](riat-introduction/)
+* [Вступление Monero (Диего "rehrar" Салазар)](monero-introduction/)
+* [Что такое RIAT (parasew)](riat-introduction/)
 * [Swiss Cryptoeconomics Assembly (polto, Ome)](swiss-cryptoeconomics-assembly)
 * [Namecoin Introduction (Jeremy Rand)​](namecoin-introduction/)
-* [Open Hardware developed at FOSSASIA (Mario Behling)](open-hardware-developed-at-fossasia/)
+* [Open Hardware developed at FOSS ASIA (Mario Behling)](open-hardware-developed-at-fossasia/)
 * [Paralelni Polis (Juraj Bednar)](paralelni-polis/)
 * [Introduction to Replicant (dllud, Denis 'GNUtoo' Carikli)​](introduction-to-replicant/)
 * [Open Source Hardware and OSHWA (Drew Fustini)](open-hardware-developed-and-oshwa/)
@@ -31,7 +31,7 @@ weight: 01
 * [Parallel Polis, Temporary Autonomous Zones and Beyond​](parallel-polis-temporary-autonomous-zones-and-beyond/)
 * [MandelBot:HAB - Open Source Ecotecture and Horizontalism](mandelbot-hab/)
 * [Adventures and Experiments Adding Namecoin to Tor Browser](adventures-and-experiments/)
-* [Fair Data Society (Gregor Zavcer)](fair-data-society/)
+* [Общество справедливых данных (Грегор Завцер)](fair-data-society/)
 * [Open Data PSI (vavoida)](open-data-psi/)
 * [The State of Secure Messaging - The Case of OTR](the-state-of-secure/)
 * [Building an (Actual) Alternative (Deanna MacDonald)](building-an-actual-alternative/)
