@@ -8,5 +8,3 @@ title: Zero to Monero
 
 Книга: [Zero to Monero](https://web.getmonero.org/library/Zero-to-Monero-1-0-0.pdf)  
 Авторы: [KOE](mailto:ukoe@protonmail.com), [Курт М. Алонсо](kurt@oktav.se)  
-Перевод:  
-Редактирование:  

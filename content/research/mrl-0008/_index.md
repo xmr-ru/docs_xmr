@@ -7,3 +7,5 @@ title: MRL-0008
 
 Исследовательский документ: [MRL-0008: Двойные связываемые кольцевые подписи](https://docs.xmr.ru/research/mrl-0008/MRL-0008.pdf)  
 Автор: Саранг Ноезер (Sarang Noether) и Брэндон Гуделл (Brandon Goodell)
+Вёрстка и редактирование текста: [v1docq47](https://t.me/v1docq47)
+Коррекция: [Kukima](https://t.me/Kukima)

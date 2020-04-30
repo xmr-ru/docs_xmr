@@ -7,5 +7,3 @@ title: MRL-0002
 
 Исследовательский документ: [MRL-0002: Counterfeiting via Merkle Tree Exploits within Virtual Currencies Employing the CryptoNote Protocol](https://web.getmonero.org/ru/resources/research-lab/pubs/MRL-0002.pdf)  
 Автор: Ян Мачета (Jan Macheta), Саранг Ноезер (Sarang Noether), Шурэ Ноезер (Surae Noether) и Хавьер Смоот (Javier Smooth)  
-Перевод:  
-Редактирование:  

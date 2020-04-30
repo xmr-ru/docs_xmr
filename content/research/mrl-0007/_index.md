@@ -7,5 +7,3 @@ title: MRL-0007
 
 Исследовательский документ: [MRL-0007: Sets of Spent Outputs](https://web.getmonero.org/ru/resources/research-lab/pubs/MRL-0007.pdf)  
 Автор: Саранг Ноезер (Sarang Noether)  
-Перевод:  
-Редактирование:  

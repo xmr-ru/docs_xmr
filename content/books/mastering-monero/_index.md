@@ -13,6 +13,4 @@ title: Mastering Monero
 - Вся информация о новых, и внедреннымх технологиях, таких как Kovri, Bulletproofs, Multisignature, аппаратные кошельки и других.
 
 Книга: [Mastering Monero](https://masteringmonero.com/)  
-Автор: [SerHack](https://serhack.me/)  
-Перевод: [Mr. Pickles](https://t.me/v1docq47)  
-Редактирование: [MoneroRus](https://t.me/monerorus)  
+Автор: [SerHack](https://serhack.me/)*  

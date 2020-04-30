@@ -3,7 +3,7 @@ title: MoneroKon D2 - Выступление Саранга Ноезера
 weight: 01
 ---
 
-{{< youtube id="-0hguEjC6ko" autoplay="false" >}}
+{{< youtube id="NJaKPeWmoJI" autoplay="false" >}}
 
 *23/06/2019*
 

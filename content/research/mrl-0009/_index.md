@@ -7,5 +7,3 @@ title: MRL-0009
 
 Исследовательский документ: [MRL-0009: Thring Signatures and their Applications to Spender-Ambiguous Digital Currencies](https://web.getmonero.org/ru/resources/research-lab/pubs/MRL-0009.pdf)  
 Автор: Брэндон Гуделл (Brandon Goodell) и Саранг Ноезер (Sarang Noether)   
-Перевод:  
-Редактирование:  

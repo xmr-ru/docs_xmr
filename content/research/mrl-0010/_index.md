@@ -7,3 +7,5 @@ title: MRL-0010
 
 Исследовательский документ: [MRL-0010: Равенство дискретного логарифма в различных группах](https://docs.xmr.ru/research/mrl-0010/MRL-0010.pdf)  
 Автор: Саранг Ноезер (Sarang Noether)
+Вёрстка и редактирование текста: [v1docq47](https://t.me/v1docq47)
+Коррекция: [Kukima](https://t.me/Kukima)

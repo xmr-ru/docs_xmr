@@ -7,5 +7,3 @@ title: MRL-0003
 
 Исследовательский документ: [MRL-0003: Monero is Not That Mysterious](https://web.getmonero.org/ru/resources/research-lab/pubs/MRL-0003.pdf)  
 Автор: Шен Ноезер (Shen Noether) и Саранг Ноезер (Sarang Noether)  
-Перевод:  
-Редактирование:  

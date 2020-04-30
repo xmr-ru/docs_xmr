@@ -7,5 +7,3 @@ title: MRL-0005
 
 Исследовательский документ: [MRL-0005: Ring Signature Confidential Transactions](https://web.getmonero.org/ru/resources/research-lab/pubs/MRL-0005.pdf)  
 Автор: Шен Ноезер (Shen Noether), Адам Маккензи (Adam Mackenzie) и Основная команда Monero (Monero Core Team)  
-Перевод:  
-Редактирование:  

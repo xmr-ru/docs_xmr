@@ -7,5 +7,3 @@ title: MRL-0001
 
 Исследовательский документ: [MRL-0001: A Note on Chain Reactions in Traceability in CryptoNote 2.0](https://getmonero.org/ru/resources/research-lab/pubs/MRL-0001.pdf)  
 Автор: Шурэ Ноезер (Surae Noether), Саранг Ноезер (Sarang Noether) и Адам Маккензи (Adam Mackenzie)  
-Перевод:  
-Редактирование:  
