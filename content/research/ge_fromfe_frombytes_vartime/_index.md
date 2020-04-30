@@ -7,5 +7,5 @@ title: Функция ge_fromfe_frombytes_vartime
 
 Исследовательский документ: [Функция ge_fromfe_frombytes_vartime](https://docs.xmr.ru/research/ge_fromfe_frombytes_vartime/ge_fromfe_frombytes_vartime.pdf)  
 Автор: Шен Ноезер (Shen Noether)  
-Вёрстка и редактирование текста: [v1docq47](https://t.me/v1docq47)
+Вёрстка и редактирование текста: [v1docq47](https://t.me/v1docq47)  
 Коррекция: [Kukima](https://t.me/Kukima)
