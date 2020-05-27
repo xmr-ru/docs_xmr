@@ -9,10 +9,10 @@ weight: 01
 
 * [Вступление Monero (Диего "rehrar" Салазар)](monero-introduction/)
 * [Что такое RIAT (parasew)](riat-introduction/)
-* [Swiss Cryptoeconomics Assembly (polto, Ome)](swiss-cryptoeconomics-assembly)
-* [Namecoin Introduction (Jeremy Rand)​](namecoin-introduction/)
+* [Вступительное слово Swiss Cryptoeconomics (Полто, Оме)](swiss-cryptoeconomics-assembly)
+* [Вступление Namecoin (Джереми Рэнд)​](namecoin-introduction/)
 * [Open Hardware developed at FOSS ASIA (Mario Behling)](open-hardware-developed-at-fossasia/)
-* [Paralelni Polis (Juraj Bednar)](paralelni-polis/)
+* [Paralelni Polis (Юрай Бендер)](paralelni-polis/)
 * [Introduction to Replicant (dllud, Denis 'GNUtoo' Carikli)​](introduction-to-replicant/)
 * [Open Source Hardware and OSHWA (Drew Fustini)](open-hardware-developed-and-oshwa/)
 * [ImplicitCAD (Juila Longtin)](implicitcad/)

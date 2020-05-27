@@ -3,7 +3,7 @@ title: MoneroKon D1 - Выступление Себастиана Кунга
 weight: 01
 ---
 
-{{< youtube id="5xust7eXpDM" autoplay="false" >}}
+{{< youtube id="jOMenF5B1IY" autoplay="false" >}}
 
 *22/06/2019*
 

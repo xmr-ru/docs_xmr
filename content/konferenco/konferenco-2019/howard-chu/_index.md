@@ -3,7 +3,7 @@ title: MoneroKon D2 - Выступление Говарда Чу
 weight: 02
 ---
 
-{{< youtube id="4Hkd-n1W_e4" autoplay="false" >}}
+{{< youtube id="uepgE-jOniQ" autoplay="false" >}}
 
 *23/06/2019*
 
