@@ -7,5 +7,6 @@ title: MRL-0007
 
 Исследовательский документ: [MRL-0007: Множества потраченных выходов](https://docs.xmr.ru/research/mrl-0007/MRL-0007.pdf)  
 Автор: Саранг Ноезер (Sarang Noether)  
+Коррекция: [Kukima](https://t.me/Kukima)
 Вёрстка и редактирование текста: [v1docq47](https://t.me/v1docq47)  
 Коррекция: [Kukima](https://t.me/Kukima)

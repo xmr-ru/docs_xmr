@@ -3,7 +3,7 @@ title: MoneroKon D2 - Выступление Арама Дживаняна
 weight: 01
 ---
 
-{{< youtube id="gb53Fe2iuqg" autoplay="false" >}}
+{{< youtube id="IeDJAYb4B6A" autoplay="false" >}}
 
 *23/06/2019*
 

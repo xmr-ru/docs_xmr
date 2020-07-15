@@ -7,5 +7,6 @@ title: MRL-0006
 
 Исследовательский документ: [MRL-0006: Эффективная реализация подадресов Monero](https://docs.xmr.ru/research/mrl-0006/MRL-0006.pdf)  
 Автор: Саранг Ноезер (Sarang Noether) и Брэндон Гуделл (Brandon Goodell)  
+Коррекция: [Kukima](https://t.me/Kukima)
 Вёрстка и редактирование текста: [v1docq47](https://t.me/v1docq47)  
 Коррекция: [Kukima](https://t.me/Kukima)
